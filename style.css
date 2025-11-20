@@ -38,22 +38,21 @@
 form .display{
     display: flex;
     justify-content: center;
-    margin: 20px 0;
-    
+    margin: 20px 0;    
 }
+
 form .display input{
     text-align: right;
     flex: 1;
     font-size: 45px;
-    
-}
+}   
 
 form input.equal{
     width: 145px;
     font-size: 30px;
-
 }
 
 form input.operator{
     color: rgb(133, 10, 86);
 }
+
